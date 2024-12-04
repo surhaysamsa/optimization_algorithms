@@ -9,20 +9,6 @@ Bu depo, Optimizasyona Giriş dersi kapsamında öğrencilerin atanan optimizasy
 - Algoritmanın temel özelliklerini ve çalışma mekanizmalarını açıklayan bir dokümantasyon hazırlamak.
 - Git ve GitHub kullanarak gerçek bir yazılım geliştirme sürecini deneyimlemek.
 
-## Depo Yapısı
-
-```
-optimization_algorithms/
-├── README.md
-├── optimizers/
-│   ├── ogrenci1_algoritmasi/
-│   │   ├── algorithm.py
-│   │   └── documentation.md
-│   ├── ogrenci2_algoritmasi/
-│   │   ├── algorithm.py
-│   │   └── documentation.md
-│   └── ...
-```
 
 ## Katkıda Bulunma Adımları
 
