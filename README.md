@@ -12,7 +12,7 @@ Bu depo, Optimizasyona Giriş dersi kapsamında öğrencilerin atanan optimizasy
 ## Depo Yapısı
 
 ```
-OptimizationAlgorithms/
+optimization_algorithms/
 ├── README.md
 ├── algorithms/
 │   ├── ogrenci1_algoritmasi/
@@ -35,7 +35,7 @@ OptimizationAlgorithms/
    - Fork’ladığınız depoyu bilgisayarınıza klonlayın:
 
    ```bash
-   git clone https://github.com/kullanici_adiniz/OptimizationAlgorithms.git
+   git clone https://github.com/kullanici_adiniz/optimization_algorithms.git
    ```
 
 3. **Yeni Bir Branch Oluşturun**
@@ -106,12 +106,11 @@ OptimizationAlgorithms/
 
 - **Kod Kalitesi**
   - Temiz, okunabilir ve yorum satırlarıyla desteklenmiş kod yazın.
-  - PEP 8 Python kodlama standartlarına uygun hareket edin.
   - Değişken ve fonksiyon isimlerini anlamlı seçin.
 
 - **Dosya ve Klasör Yapısı**
   - Kendi klasörünüzü `algorithms` klasörü altında oluşturun.
-  - Dosya isimlendirmelerinde küçük harf ve alt çizgi kullanın ("algorithm.py" gibi).
+  - Dosya isimlendirmelerinde algoritmanın kısa ismini kullanın ("PSO.py" gibi).
 
 - **Dokümantasyon**
   - Algoritmanın matematiksel denklemlerini ve çalışma prensiplerini detaylı bir şekilde açıklayın.
@@ -119,7 +118,7 @@ OptimizationAlgorithms/
   - Kullandığınız kaynakları ve referansları eklemeyi unutmayın.
 
 - **Uyumluluk**
-  - Kodunuzun, gerektiğinde mevcut test fonksiyonlarıyla uyumlu çalışabilmesini sağlayın.
+  - Kodunuzun, kütüphanede mevcut test fonksiyonlarıyla uyumlu çalışabilmesini sağlayın.
   - Gerekli kütüphane ve bağımlılıkları belirtin.
 
 ## Git ve GitHub Kullanımı
@@ -129,49 +128,23 @@ OptimizationAlgorithms/
   - Her öğrenci kendi branch’inde çalışmalıdır.
 
 - **Commit Mesajları**
-  - Anlamlı ve açıklayıcı commit mesajları kullanın ("Added Particle Swarm Optimization by Ahmet Demir" gibi).
+  - Anlamlı ve açıklayıcı commit mesajları kullanın ("Added Particle Swarm Optimization by Bahaeddin Türkoğlu" gibi).
 
 - **Pull Request**
   - Pull request açıklamasında yaptığınız çalışmaları ve eklediğiniz özellikleri belirtin.
   - Gerekirse kodunuz hakkında notlar veya açıklamalar ekleyin.
 
-## Kaynaklar
-
-- **Git ve GitHub Rehberleri**
-  - Git Başlangıç Rehberi
-  - GitHub Pull Request Oluşturma
-
-- **Markdown ve Dokümantasyon**
-  - Markdown Kılavuzu
-  - LaTeX Matematik Denklemleri
-
-- **EvoloPy Projesi**
-  - EvoloPy GitHub Deposu
 
 ## Teslim Tarihi
 
-- Çalışmalarınızı [Teslim Tarihi] tarihine kadar gönderiniz.
+- Çalışmalarınızı Final Sınavı tarihine kadar gönderiniz.
 
 ## İletişim
 
-- **Öğretim Görevlisi**: [İsminiz]
-- **E-posta**: [E-posta Adresiniz]
-- **Ofis Saatleri**: [Ofis Saatleri Bilgisi]
+- **Öğretim Üyesi**: [Bahaeddin Türkoğlu]
+- **E-posta**: [turkoglub@ankara.edu.tr]
+- **Ofis Saatleri**: [Perşembe 13:00 14:15 ]
 
-Herhangi bir sorunuz veya sorununuz olursa, lütfen iletişime geçmekten çekinmeyin.
-
-## Notlar
-
-- **Akademik Dürüstlük**
-  - Tüm çalışmalarınız size ait olmalıdır. Alıntı yaptığınız veya referans verdiğiniz kaynakları mutlaka belirtin.
-  - Plagiarizm ve intihal kabul edilmeyecektir.
-
-- **İşbirliği**
-  - Algoritmanın kavramlarını tartışabilirsiniz, ancak kod ve dokümantasyon bireysel olarak hazırlanmalıdır.
-
-- **Teknik Destek**
-  - Git ve GitHub kullanımıyla ilgili sorunlar yaşarsanız, belirtilen kaynakları inceleyin veya öğretim görevlisiyle iletişime geçin.
 
 ## Başarılar!
 
-Çalışmalarınızda başarılar dilerim. Bu ödev, optimizasyon algoritmalarını derinlemesine anlamanız ve yazılım geliştirme sürecinde deneyim kazanmanız için harika bir fırsatır.
