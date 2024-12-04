@@ -14,7 +14,7 @@ Bu depo, Optimizasyona Giriş dersi kapsamında öğrencilerin atanan optimizasy
 ```
 optimization_algorithms/
 ├── README.md
-├── algorithms/
+├── optimizers/
 │   ├── ogrenci1_algoritmasi/
 │   │   ├── algorithm.py
 │   │   └── documentation.md
