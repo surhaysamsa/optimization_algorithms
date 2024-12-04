@@ -46,16 +46,17 @@ optimization_algorithms/
    ```
 
 4. **Kendi Klasörünüzü Oluşturun**
-   - `algorithms` klasörü altında kendi kullanıcı adınızı ve algoritma adınızı içeren bir klasör oluşturun:
+   - `optimizers` klasörü altında kendi algoritma adınızın büyük harflerle kısaltmasını içeren bir klasör oluşturun:
 
    ```bash
-   mkdir algorithms/kullanici_adiniz_algoritmasi
+   mkdir optimizers/PSOgibi
    ```
 
 5. **Kodunuzu ve Dokümantasyonunuzu Ekleyin**
-   - Klasörünüzün içine aşağıdaki dosyaları ekleyin:
+   - optimizers klasörünüzün içine aşağıdaki dosyaları ekleyin:
      - `algorithm.py`: Algoritmanızın Python kodu.
-     - `documentation.md`: Algoritmanın dokümantasyonu.
+   - documentation klasörünün içine aşağıdaki dosyaları ekleyin
+     - `algoritmaAdı_documentation.md`: Algoritmanın dokümantasyonu.
 
 6. **Kod Başlığı**
    - `algorithm.py` dosyanızın başına aşağıdaki formatta bir bilgilendirme yazısı ekleyin (kendi bilgilerinizle güncelleyin):
@@ -114,7 +115,7 @@ optimization_algorithms/
 
 - **Dokümantasyon**
   - Algoritmanın matematiksel denklemlerini ve çalışma prensiplerini detaylı bir şekilde açıklayın.
-  - Gerekli görselleri veya denklemleri eklemek için uygun formatlar kullanın (Markdown formatında LaTeX kullanabilirsiniz).
+  - Gerekli görselleri veya denklemleri eklemek için uygun formatlar kullanın (Markdown formatında kullanabilirsiniz).
   - Kullandığınız kaynakları ve referansları eklemeyi unutmayın.
 
 - **Uyumluluk**
@@ -137,7 +138,7 @@ optimization_algorithms/
 
 ## Teslim Tarihi
 
-- Çalışmalarınızı Final Sınavı tarihine kadar gönderiniz.
+- Çalışmalarınızı Final Sınavı saatine kadar gönderiniz.
 
 ## İletişim
 
