@@ -93,10 +93,10 @@ Bu depo, Optimizasyona Giriş dersi kapsamında öğrencilerin atanan optimizasy
 
 - **Kod Kalitesi**
   - Temiz, okunabilir ve yorum satırlarıyla desteklenmiş kod yazın.
-  - Değişken ve fonksiyon isimlerini anlamlı seçin.
+  - Değişken ve fonksiyon isimlerini anlamlı seçin. Yayının orjinalinde kullanılan parametre isimlerinden (PSO için c1,c2 gibi)
 
 - **Dosya ve Klasör Yapısı**
-  - Kendi klasörünüzü `algorithms` klasörü altında oluşturun.
+  - Kendi klasörünüzü `optimizers` klasörü altında oluşturun.
   - Dosya isimlendirmelerinde algoritmanın kısa ismini kullanın ("PSO.py" gibi).
 
 - **Dokümantasyon**
@@ -112,7 +112,7 @@ Bu depo, Optimizasyona Giriş dersi kapsamında öğrencilerin atanan optimizasy
 
 - **Fork Etme ve Branch Oluşturma**
   - Depoyu fork ederek kendi GitHub hesabınıza kopyalayın.
-  - Her öğrenci kendi branch’inde çalışmalıdır.
+  - Her öğrenci kendi repo/branch’inde çalışmalıdır.
 
 - **Commit Mesajları**
   - Anlamlı ve açıklayıcı commit mesajları kullanın ("Added Particle Swarm Optimization by Bahaeddin Türkoğlu" gibi).
