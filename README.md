@@ -132,6 +132,8 @@ Bu depo, Optimizasyona Giriş dersi kapsamında öğrencilerin atanan optimizasy
 - **E-posta**: [turkoglub@ankara.edu.tr]
 - **Ofis Saatleri**: [Perşembe 13:00 14:15 ]
 
+## Contributor
+- Emre Diş
 
 ## Başarılar!
 
