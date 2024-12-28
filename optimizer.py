@@ -69,8 +69,10 @@ def selector(algo, func_details, popSize, Iter):
         x = de.DE(getattr(benchmarks, function_name), lb, ub, dim, popSize, Iter)
     elif algo == "AAA":
         x = aaa.AAA(getattr(benchmarks, function_name), lb, ub, dim, popSize, Iter)
+    elif algo == "APO":
+        x = aaa.APO(getattr(benchmarks, function_name), lb, ub, dim, popSize, Iter)
     else:
-        return null
+        return None # burdaki typo'yu düzelttim. null yazıyordu Python için "None" olması gerekiyor.
     return x
 
 
