@@ -134,6 +134,7 @@ Bu depo, Optimizasyona Giriş dersi kapsamında öğrencilerin atanan optimizasy
 
 ## Contributor
 - Emre Diş
+- Baran Bingöl
 
 ## Başarılar!
 
