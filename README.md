@@ -137,6 +137,7 @@ Bu depo, Optimizasyona Giriş dersi kapsamında öğrencilerin atanan optimizasy
 - Baran Bingöl
 - Ural Altan Bozkurt
 - Kenan Şentürk
+- Mustafa Surhay Samsa
 
 ## Başarılar!
 
